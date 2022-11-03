@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Django%20|%20React%20|%20AI%20|%20Enthusiast%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a dedicated Software Engineer with professional experience working for a reputed software firm. I have expertise with full-stack Django and React Web apps, as well as AWS services. I like to Code, Design, Innovate and Experiment. I am who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.I have already built many websites using Django, JWT token authentication, Django rest framework (API), and React.js also used Redux to get data from the backend</h4>
+<h4 align="center">I am a dedicated Software Engineer with professional experience working for a reputed software firm. I have expertise with full-stack Django and React Web apps, as well as AWS services. I like to Code, Design, Innovate and Experiment. I am who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p> -->
 
